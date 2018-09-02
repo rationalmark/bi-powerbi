@@ -1,2 +1,1 @@
-# bi-powerbi
-Bussiness Intelligence Power BI
+# Bussines Intelligence - Power BI
